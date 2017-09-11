@@ -20,8 +20,8 @@ The goals / steps of this project are the following:
 
 [image1]: ./imagens_para_writeup/Capturar.JPG "Model Visualization"
 [image2]: ./imagens_para_writeup/Centro.jpg "Center Image"
-[image3]: ./imagens_para_writeup/Dir.jpg "Recovery Image"
-[image4]: ./imagens_para_writeup/Esq.jpg "Recovery Image"
+[image3]: ./imagens_para_writeup/Esq.jpg "Recovery Image"
+[image4]: ./imagens_para_writeup/Dir.jpg "Recovery Image"
 [image5]: ./imagens_para_writeup/DirEsq.jpg "Flipped Image"
 [image6]: ./imagens_para_writeup/Centro2.jpg "Second Track"
 
