@@ -92,6 +92,7 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 Here is a visualization of the architecture:
 
 ![alt text][image1]
+
 ["End-to-End Learning for Self-Driving Cars"](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
 
 #### 3. Creation of the Training Set & Training Process
@@ -100,7 +101,7 @@ To capture good driving behavior, I first recorded two laps on track one using c
 
 ![alt text][image2]
 
-Then I recorded the vehicle on the second track.
+To augment the data sat, I also flipped images and angles to augment the data.
 
 ![alt_text][image6]
 
@@ -111,8 +112,6 @@ I then recorded the vehicle recovering from the left side and right sides of the
 ![alt text][image4]
 
 Then I repeated this process on track two in order to get more data points.
-
-To augment the data sat, I also flipped images and angles to augment the data.
 
 ![alt text][image4]
 ![alt text][image5]
