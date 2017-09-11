@@ -93,7 +93,7 @@ Here is a visualization of the architecture:
 
 ![alt text][image1]
 
-["End-to-End Learning for Self-Driving Cars"](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
+Image from ["End-to-End Learning for Self-Driving Cars"](http://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
 
 #### 3. Creation of the Training Set & Training Process
 
